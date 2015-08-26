@@ -4,8 +4,11 @@ Stuff I did when I was in school.
 ## Projects
 
 Legend:
+
 **(H)** Homework
+
 **(P)** Project
+
 **(M)** Miscellaneous
 
 ### C#
@@ -16,6 +19,6 @@ Legend:
 -----
 
 ## License
-![http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png](WTFPL)
+![WTFPL](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)
 
 See `LICENSE`
